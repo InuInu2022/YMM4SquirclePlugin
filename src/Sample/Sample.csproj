@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- プラグインに便利な設定を読み込む -->
+  <Import Project="../../buildprops/Ymm4Plugin.Build.props" />
+  <PropertyGroup>
+
+  </PropertyGroup>
+
+</Project>
