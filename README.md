@@ -48,3 +48,7 @@ Fernández–Guastiさんという方が考案した方式のスクワークル�
 ## 参考
 
 - [Squircle - Wikipedia](https://en.wikipedia.org/wiki/Squircle)
+
+## License
+
+- [MinVer](https://github.com/adamralph/minver) - Apache-2.0 license
