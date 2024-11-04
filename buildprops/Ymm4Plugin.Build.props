@@ -83,7 +83,7 @@
       <FilesToDelete Include="$(OutputPath)\publish\runtimes\win\lib\**\System.Management.dll" />
       <FilesToDelete Include="$(OutputPath)\publish\YukkuriMovieMaker.*.dll" />
       <FilesToDelete Include="$(OutputPath)\publish\YukkuriMovieMaker.*.pdb" />
-      <FilesToDelete Include="$(OutputPath)\publish\(AssemblyName).pdb" />
+      <FilesToDelete Include="$(OutputPath)\publish\Ymm4SquirclePlugin.pdb" />
     </ItemGroup>
     <Delete Files="@(FilesToDelete)">
       <Output TaskParameter="DeletedFiles" ItemName="FilesDeleted" />
