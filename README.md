@@ -20,15 +20,13 @@
 
 - [プラグインを使用する | 饅頭遣いのおもちゃ箱](https://manjubox.net/ymm4/#%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3)
 
-<!--
 ## ニコニコモンズ
 
 ニコニコに投稿する際には以下のコンテンツIDを親子登録してください。
 
-[nc375085](https://commons.nicovideo.jp/works/nc375085)
+[nc377397](https://commons.nicovideo.jp/works/nc377397)
 
 (YMM4の素材一覧からも確認できます。)
--->
 
 ## 形状タイプオプション
 

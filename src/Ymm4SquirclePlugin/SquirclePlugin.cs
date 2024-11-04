@@ -5,7 +5,7 @@ using YukkuriMovieMaker.Plugin.Shape;
 using YukkuriMovieMaker.Project;
 namespace Ymm4SquirclePlugin;
 
-[PluginDetails(AuthorName = "InuInu", ContentId = "")]
+[PluginDetails(AuthorName = "InuInu", ContentId = "nc377397")]
 public class SquirclePlugin : IShapePlugin
 {
 	/// <summary>
