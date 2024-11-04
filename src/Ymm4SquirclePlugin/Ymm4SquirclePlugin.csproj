@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- プラグインに便利な設定を読み込む -->
+  <Import Project="../../buildprops/Ymm4Plugin.Build.props" />
+  <PropertyGroup />
+
+  <ItemGroup>
+    <Reference Include="$(YMM4_PATH)\Vortice.Direct2D1.dll">
+      <Private>false</Private>
+      <CopyLocal>false</CopyLocal>
+    </Reference>
+    <Reference Include="$(YMM4_PATH)\Vortice.DirectX.dll">
+      <Private>false</Private>
+      <CopyLocal>false</CopyLocal>
+    </Reference>
+    <Reference Include="$(YMM4_PATH)\Vortice.Mathematics.dll">
+      <Private>false</Private>
+      <CopyLocal>false</CopyLocal>
+    </Reference>
+    <Reference Include="$(YMM4_PATH)\SharpGen.Runtime.dll">
+      <Private>false</Private>
+      <CopyLocal>false</CopyLocal>
+    </Reference>
+  </ItemGroup>
+</Project>
