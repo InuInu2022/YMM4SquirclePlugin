@@ -24,7 +24,7 @@
 			"type": "process",
 			"args": [
 				"publish",
-				"${workspaceFolder}/src/Sample/Sample.csproj",
+				"${workspaceFolder}/src/Ymm4SquirclePlugin/Ymm4SquirclePlugin.csproj",
 				"/property:GenerateFullPaths=true",
 				"/property:Configuration=Release",
 				"/p:RunAnalyzers=false"
